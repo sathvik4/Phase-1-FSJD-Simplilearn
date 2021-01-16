@@ -8,7 +8,7 @@ public class Deletefile {
 	Scanner sc = new Scanner(System.in);
 	
 	String fileName;
-	File dir = new File ("C:\\Users\\Sathvik\\eclipse-workspace\\Phase-1 Locked me");
+	File dir = new File ("C:\\Users\\Sathvik\\eclipse-workspace\\Phase-1 Locked me\\files");
 	
 	//Accepts filename of the file to be deleted and calls the function that will delete the file
 	public void deletingFile() {
