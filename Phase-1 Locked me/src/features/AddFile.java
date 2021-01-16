@@ -23,7 +23,7 @@ public class AddFile {
 	
 	//Adding file to the directory 
 	public void createFile(String fileName) {
-		File dir = new File ("C:\\Users\\Sathvik\\eclipse-workspace\\Phase-1 Locked me");
+		File dir = new File ("C:\\Users\\Sathvik\\eclipse-workspace\\Phase-1 Locked me\\files");
 	    try {
 	      File file = new File(dir, fileName);
 	      
