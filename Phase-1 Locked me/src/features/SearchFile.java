@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class SearchFile {
 	Scanner sc = new Scanner(System.in);
 	
-	File dir = new File ("C:\\Users\\Sathvik\\eclipse-workspace\\Phase-1 Locked me");
+	File dir = new File ("C:\\Users\\Sathvik\\eclipse-workspace\\Phase-1 Locked me\\files");
 	ArrayList<String> fileList = new ArrayList<>();
 	String fileName;
 	
